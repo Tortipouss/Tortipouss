@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello you !
+
+I'm an apprentice in computer science <br>
+- 🌱 I’m currently learning the internet of things
+- 🔭 I’m currently working on a brand new "CV" webiste. 
+- 💬 Ask me about anything related to the projects I made !  
+- 👯 I’m looking to collaborate on any open source projects related to web or Android.
+- 📫 How to reach me: dev.pro.alex@protonmail.com (I speak french, english and italian)
 
 <!--
 **Tortipouss/Tortipouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
