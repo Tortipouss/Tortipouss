@@ -7,7 +7,7 @@ I'm an apprentice in computer science <br>
 - 👯 I’m looking to collaborate on any open source projects related to web or Android.
 - 📫 How to reach me: projects@alexg.ch (I speak french, english and italian)
 
-You can see my projects on [my Github pages website !](https://tortipouss.github.io/fr)
+You can see my projects on [my Github pages website !](https://cv.alexg.ch)
 
 <!--
 **Tortipouss/Tortipouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
