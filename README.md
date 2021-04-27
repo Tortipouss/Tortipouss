@@ -9,7 +9,7 @@ I'm an apprentice in computer science <br>
   - If you want to hire me : pro@alexg.ch
   - For any other purpose (questions about projects, collaboration, etc.) : projects@alexg.ch 
   
-- ⚡ Fun fact: The HTML tag **<svg\>** with basic JS can make very precice, smooth ans lithening fast animations. With 0 depedencies. 
+- ⚡ Fun fact: The HTML tag **<svg\>** with basic JS can make very precice, smooth and lithening fast animations. With 0 depedencies. 
      I used it to make [my old website CV](https://cv.alexg.ch/SvgViewBox-Introduction/)
 
 You can see my projects on [my little CV website](https://cv.alexg.ch)
