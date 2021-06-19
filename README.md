@@ -5,9 +5,7 @@ I'm an apprentice in computer science <br>
 - 🔭 I’m currently working on my "CV" website. 
 - 💬 Ask me about anything related to the projects I made !  
 - 👯 I’m looking to collaborate on any open source projects related to web or Android.
-- 📫 How to reach me (I speak french, english and italian): 
-  - If you want to hire me : pro@alexg.ch
-  - For any other purpose (questions about projects, collaboration, etc.) : projects@alexg.ch 
+- 📫 How to reach me (I speak french, english and italian): pro@alexg.ch
   
 - ⚡ Fun fact: The HTML tag **<svg\>** with basic JS can make very precice, smooth and lithening fast animations. With 0 depedencies. 
      I used it to make [my old website CV](https://cv.alexg.ch/SvgViewBox-Introduction/)
