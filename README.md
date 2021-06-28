@@ -1,7 +1,7 @@
 ### Hello you !
 
 I'm an apprentice in computer science <br>
-- 🌱 I’m currently learning Powershell scripts, ESIX servers and IT security
+<!-- 🌱 I’m currently learning Powershell scripts, ESIX servers and IT security-->
 - 🔭 I’m currently working on my "CV" website. 
 - 💬 Ask me about anything related to the projects I made !  
 - 👯 I’m looking to collaborate on any open source projects related to web or Android.
