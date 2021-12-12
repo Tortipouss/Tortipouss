@@ -10,7 +10,6 @@ I'm an apprentice in computer science <br>
 - ⚡ Fun fact: The HTML tag **<svg\>** with basic JS can make very precice, smooth and lithening fast animations. With 0 additional library needed. 
      I used it to make [my old CV website](https://alexg.ch/SvgViewBox-Introduction/)
 
-You can see my projects on [my little CV website](https://alexg.ch) <br>
 You can visit my blog here : https://al3x.ch/
 
 <!--
