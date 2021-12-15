@@ -11,6 +11,7 @@ I'm an apprentice in computer science <br>
      I used it to make [my old CV website](https://alexg.ch/SvgViewBox-Introduction/)
 
 You can visit my blog here (in french) : https://al3x.ch/
+Here is my CV website : https://alexg.ch
 
 <!--
 **Tortipouss/Tortipouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
