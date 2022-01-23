@@ -1,4 +1,4 @@
-<h1> Hello you </h1>
+<h1> Hello </h1>
   <img align="right" src="rain.gif" width="30%" border-radius="30px">
     <p> I'm an apprentice in computer science </p>
   <ul>
