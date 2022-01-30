@@ -7,5 +7,4 @@
   <li> 👯 I’m looking to collaborate on any open source projects related to Web, Android or Windev. </li>
   <li> 📫 How to reach me (I speak french, english and italian): pro@alexg.ch </li>
   </ul>
-<p> You can visit my blog here (in french) : https://al3x.ch/ </br>
- Here is my CV website : https://alexg.ch </p>
+<p> You can visit my blog here (in french) : https://al3x.ch/ </p>
